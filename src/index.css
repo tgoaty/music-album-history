@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Yandex Sans Text';
+    src: local('Yandex Sans Text Thin'), local('YandexSansText-Thin'),
+    url('/fonts/YandexSansText-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yandex Sans Text';
+    src: local('Yandex Sans Text Regular Italic'), local('YandexSansText-RegularItalic'),
+    url('/fonts/YandexSansText-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Yandex Sans Text';
+    src: local('Yandex Sans Text Regular'), local('YandexSansText-Regular'),
+    url('/fonts/YandexSansText-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yandex Sans Text';
+    src: local('Yandex Sans Text Light'), local('YandexSansText-Light'),
+    url('/fonts/YandexSansText-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yandex Sans Text';
+    src: local('Yandex Sans Text Bold'), local('YandexSansText-Bold'),
+    url('/fonts/YandexSansText-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yandex Sans Text';
+    src: local('Yandex Sans Text Medium'), local('YandexSansText-Medium'),
+    url('/fonts/YandexSansText-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+body {
+    font-family: 'Yandex Sans Text', sans-serif;
+    background-color: #141414;
+    color: white
+}
+
+.releaseDate {
+
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    width: 100%;
+    padding: 30px;
+}
+
+.album {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.image {
+    width: 300px;
+}
+
+.title {
+
+}
+.author {
+    color: #939393;
+    font-weight: 500;
+}
+
+.track--wrapper {
+    display: flex;
+    column-gap: 5px;
+}
+
+.track--title {
+    display: inline;
+    color: white;
+    text-decoration: none;
+}
+
+.feat {
+    color: #939393;
+    font-weight: 300;
+    font-size: small;
+}

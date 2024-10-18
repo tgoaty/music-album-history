@@ -1,0 +1,173 @@
+{
+  "albums": [
+    {
+      "id": 28886598,
+      "releaseDate": "12 01 2024",
+      "title": "Он сказал поехали!",
+      "author": "madk1d",
+      "image": "https://avatars.yandex.net/get-music-content/9837803/34ff46bc.a.28886598-1/1000x1000",
+      "tracks": [
+        {
+          "title": "типичная ситуация (prod. by vhs)",
+          "url": "https://music.yandex.ru/album/28886598/track/120185409",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "1 мая",
+          "url": "https://music.yandex.ru/album/28886598/track/119890653",
+          "favorite": false,
+          "feats": [
+            "CUPSIZE"
+          ]
+        },
+        {
+          "title": "самый лучший трудовик",
+          "url": "https://music.yandex.ru/album/28886598/track/120805923",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "грустная история",
+          "url": "https://music.yandex.ru/album/28886598/track/119890654",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "мориарти (prod. by feihua)",
+          "url": "https://music.yandex.ru/album/28886598/track/120805924",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "незаконно",
+          "url": "https://music.yandex.ru/album/28886598/track/120805925",
+          "favorite": false,
+          "feats": [
+            "nobody"
+          ]
+        },
+        {
+          "title": "number 9",
+          "url": "https://music.yandex.ru/album/28886598/track/120805926",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "заправка (prod. by рэйчи)",
+          "url": "https://music.yandex.ru/album/28886598/track/120805927",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "типичная ситуация",
+          "url": "https://music.yandex.ru/album/28886598/track/120805928",
+          "favorite": false,
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 29780933,
+      "releaseDate": "01 03 2024",
+      "title": "новый альбом про любовь",
+      "author": "zhanulka",
+      "image": "https://avatars.yandex.net/get-music-content/10641165/ee139d6c.a.29780933-1/1000x1000",
+      "tracks": [
+        {
+          "title": "наколки",
+          "url": "https://music.yandex.ru/album/29780933/track/121599291",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "не я",
+          "url": "https://music.yandex.ru/album/29780933/track/122782068",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "первый скилл",
+          "url": "https://music.yandex.ru/album/29780933/track/122782069",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "мурашки",
+          "url": "https://music.yandex.ru/album/29780933/track/122782070",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "ток",
+          "url": "https://music.yandex.ru/album/29780933/track/122782071",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "лазить по стенам",
+          "url": "https://music.yandex.ru/album/29780933/track/122782072",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "кимоно (2021)",
+          "url": "https://music.yandex.ru/album/29780933/track/122782073",
+          "favorite": false,
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 29984518,
+      "releaseDate": "08 03 2024",
+      "title": "новый альбом про любовь (speed up)",
+      "author": "zhanulka",
+      "image": "https://avatars.yandex.net/get-music-content/10874616/56d2e604.a.29984518-1/1000x1000",
+      "tracks": [
+        {
+          "title": "наколки (speed up)",
+          "url": "https://music.yandex.ru/album/29984518/track/123208765",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "не я (speed up)",
+          "url": "https://music.yandex.ru/album/29984518/track/123208766",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "первый скилл (speed up)",
+          "url": "https://music.yandex.ru/album/29984518/track/123208767",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "мурашки (speed up)",
+          "url": "https://music.yandex.ru/album/29984518/track/123208768",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "ток (speed up)",
+          "url": "https://music.yandex.ru/album/29984518/track/123208769",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "лазить по стенам (speed up)",
+          "url": "https://music.yandex.ru/album/29984518/track/123208770",
+          "favorite": false,
+          "feats": []
+        },
+        {
+          "title": "кимоно (speed up)",
+          "url": "https://music.yandex.ru/album/29984518/track/123208771",
+          "favorite": false,
+          "feats": []
+        }
+      ]
+    }
+  ]
+}
