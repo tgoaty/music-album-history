@@ -9,12 +9,14 @@
       "tracks": [
         {
           "title": "типичная ситуация (prod. by vhs)",
+          "position": 1,
           "url": "https://music.yandex.ru/album/28886598/track/120185409",
           "favorite": false,
           "feats": []
         },
         {
           "title": "1 мая",
+          "position": 2,
           "url": "https://music.yandex.ru/album/28886598/track/119890653",
           "favorite": false,
           "feats": [
@@ -23,24 +25,28 @@
         },
         {
           "title": "самый лучший трудовик",
+          "position": 3,
           "url": "https://music.yandex.ru/album/28886598/track/120805923",
           "favorite": false,
           "feats": []
         },
         {
           "title": "грустная история",
+          "position": 4,
           "url": "https://music.yandex.ru/album/28886598/track/119890654",
           "favorite": false,
           "feats": []
         },
         {
           "title": "мориарти (prod. by feihua)",
+          "position": 5,
           "url": "https://music.yandex.ru/album/28886598/track/120805924",
           "favorite": false,
           "feats": []
         },
         {
           "title": "незаконно",
+          "position": 6,
           "url": "https://music.yandex.ru/album/28886598/track/120805925",
           "favorite": false,
           "feats": [
@@ -49,18 +55,21 @@
         },
         {
           "title": "number 9",
+          "position": 7,
           "url": "https://music.yandex.ru/album/28886598/track/120805926",
           "favorite": false,
           "feats": []
         },
         {
           "title": "заправка (prod. by рэйчи)",
+          "position": 8,
           "url": "https://music.yandex.ru/album/28886598/track/120805927",
           "favorite": false,
           "feats": []
         },
         {
           "title": "типичная ситуация",
+          "position": 9,
           "url": "https://music.yandex.ru/album/28886598/track/120805928",
           "favorite": false,
           "feats": []
@@ -76,42 +85,49 @@
       "tracks": [
         {
           "title": "наколки",
+          "position": 1,
           "url": "https://music.yandex.ru/album/29780933/track/121599291",
           "favorite": false,
           "feats": []
         },
         {
           "title": "не я",
+          "position": 2,
           "url": "https://music.yandex.ru/album/29780933/track/122782068",
           "favorite": false,
           "feats": []
         },
         {
           "title": "первый скилл",
+          "position": 3,
           "url": "https://music.yandex.ru/album/29780933/track/122782069",
           "favorite": false,
           "feats": []
         },
         {
           "title": "мурашки",
+          "position": 4,
           "url": "https://music.yandex.ru/album/29780933/track/122782070",
           "favorite": false,
           "feats": []
         },
         {
           "title": "ток",
+          "position": 5,
           "url": "https://music.yandex.ru/album/29780933/track/122782071",
           "favorite": false,
           "feats": []
         },
         {
           "title": "лазить по стенам",
+          "position": 6,
           "url": "https://music.yandex.ru/album/29780933/track/122782072",
           "favorite": false,
           "feats": []
         },
         {
           "title": "кимоно (2021)",
+          "position": 7,
           "url": "https://music.yandex.ru/album/29780933/track/122782073",
           "favorite": false,
           "feats": []
@@ -127,42 +143,49 @@
       "tracks": [
         {
           "title": "наколки (speed up)",
+          "position": 1,
           "url": "https://music.yandex.ru/album/29984518/track/123208765",
           "favorite": false,
           "feats": []
         },
         {
           "title": "не я (speed up)",
+          "position": 2,
           "url": "https://music.yandex.ru/album/29984518/track/123208766",
           "favorite": false,
           "feats": []
         },
         {
           "title": "первый скилл (speed up)",
+          "position": 3,
           "url": "https://music.yandex.ru/album/29984518/track/123208767",
           "favorite": false,
           "feats": []
         },
         {
           "title": "мурашки (speed up)",
+          "position": 4,
           "url": "https://music.yandex.ru/album/29984518/track/123208768",
           "favorite": false,
           "feats": []
         },
         {
           "title": "ток (speed up)",
+          "position": 5,
           "url": "https://music.yandex.ru/album/29984518/track/123208769",
           "favorite": false,
           "feats": []
         },
         {
           "title": "лазить по стенам (speed up)",
+          "position": 6,
           "url": "https://music.yandex.ru/album/29984518/track/123208770",
           "favorite": false,
           "feats": []
         },
         {
           "title": "кимоно (speed up)",
+          "position": 7,
           "url": "https://music.yandex.ru/album/29984518/track/123208771",
           "favorite": false,
           "feats": []

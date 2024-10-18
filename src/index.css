@@ -7,7 +7,7 @@
 @font-face {
     font-family: 'Yandex Sans Text';
     src: local('Yandex Sans Text Thin'), local('YandexSansText-Thin'),
-    url('/fonts/YandexSansText-Thin.ttf') format('truetype');
+    url('/fonts/YandexSansText-Thin.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
 }
@@ -15,7 +15,7 @@
 @font-face {
     font-family: 'Yandex Sans Text';
     src: local('Yandex Sans Text Regular Italic'), local('YandexSansText-RegularItalic'),
-    url('/fonts/YandexSansText-RegularItalic.ttf') format('truetype');
+    url('/fonts/YandexSansText-RegularItalic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
 }
@@ -23,7 +23,7 @@
 @font-face {
     font-family: 'Yandex Sans Text';
     src: local('Yandex Sans Text Regular'), local('YandexSansText-Regular'),
-    url('/fonts/YandexSansText-Regular.ttf') format('truetype');
+    url('/fonts/YandexSansText-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -31,7 +31,7 @@
 @font-face {
     font-family: 'Yandex Sans Text';
     src: local('Yandex Sans Text Light'), local('YandexSansText-Light'),
-    url('/fonts/YandexSansText-Light.ttf') format('truetype');
+    url('/fonts/YandexSansText-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
 }
@@ -39,7 +39,7 @@
 @font-face {
     font-family: 'Yandex Sans Text';
     src: local('Yandex Sans Text Bold'), local('YandexSansText-Bold'),
-    url('/fonts/YandexSansText-Bold.ttf') format('truetype');
+    url('/fonts/YandexSansText-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 }
@@ -47,7 +47,7 @@
 @font-face {
     font-family: 'Yandex Sans Text';
     src: local('Yandex Sans Text Medium'), local('YandexSansText-Medium'),
-    url('/fonts/YandexSansText-Medium.ttf') format('truetype');
+    url('/fonts/YandexSansText-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
 }
@@ -60,7 +60,9 @@ body {
 }
 
 .releaseDate {
-
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 8px;
 }
 
 .wrapper {
@@ -81,29 +83,40 @@ body {
 
 .image {
     width: 300px;
+    border-radius: 8px;
 }
 
 .title {
-
 }
+
 .author {
-    color: #939393;
+    color: #808080;
     font-weight: 500;
 }
 
 .track--wrapper {
+    margin-top: 20px;
     display: flex;
     column-gap: 5px;
 }
-
+.track--position {
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 12px;
+    color: #808080;
+    margin-right: 6px;
+}
 .track--title {
+    font-size: 18px;
+    font-weight: 400;
     display: inline;
     color: white;
     text-decoration: none;
 }
 
 .feat {
-    color: #939393;
+    color: #808080;
     font-weight: 300;
     font-size: small;
 }
