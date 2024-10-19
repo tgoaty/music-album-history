@@ -6,6 +6,7 @@ const AlbumCard = ({ album }) => {
   const albumCardRef = useRef(null);
   const imageRef = useRef(null);
   const [gradient, setGradient] = useState('');
+  const [isVisible, setIsVisible] = useState(false);
 
   // Функция для получения цвета изображения
   const getColorsFromImage = () => {
@@ -34,6 +35,33 @@ const AlbumCard = ({ album }) => {
     };
   }, []);
 
+  // useEffect для отслеживания появления карточки в зоне видимости
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setIsVisible(true); // Устанавливаем видимость
+            observer.disconnect(); // Отключаем наблюдатель, как только элемент виден
+          }
+        });
+      },
+      {
+        threshold: 0.1, // 10% карточки должно быть видно
+      }
+    );
+
+    if (albumCardRef.current) {
+      observer.observe(albumCardRef.current); // Наблюдаем за элементом albumCardRef
+    }
+
+    return () => {
+      if (albumCardRef.current) {
+        observer.unobserve(albumCardRef.current); // Чистим наблюдатель при демонтировании
+      }
+    };
+  }, []);
+
   // Обработчик клика для переключения favorite и прокрутки
   const handleClick = () => {
     setOnlyFavorite(!onlyFavorite);
@@ -46,7 +74,11 @@ const AlbumCard = ({ album }) => {
   };
 
   return (
-    <div className="album--card" ref={albumCardRef} style={{ background: gradient }}>
+    <div
+      className={`album--card ${isVisible ? 'show' : ''}`} // Добавляем класс 'show', когда элемент видим
+      ref={albumCardRef}
+      style={{ background: gradient }}
+    >
       <h2 className="releaseDate">{album.releaseDate}</h2>
       <img
         ref={imageRef}

@@ -84,12 +84,20 @@ body {
 
 }
 .album--card {
+    opacity: 0; /* Изначально невидим */
+    transform: translateY(20px); /* Сдвинут немного вниз */
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+
+}
+.album--card.show {
     padding-bottom: 10px;
     border-radius: 14px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    opacity: 1; /* Плавное появление */
+    transform: translateY(0); /* Возвращаем в исходное положение */
 }
 
 
