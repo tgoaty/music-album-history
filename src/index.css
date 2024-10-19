@@ -55,15 +55,19 @@
 
 body {
     font-family: 'Yandex Sans Text', sans-serif;
-    background-color: #141414;
+    /*background-color: #141414;*/
+    background-color: #000000;
     color: white
 }
 
 .releaseDate {
-    font-size: 20px;
-    font-weight: 300;
-    margin-bottom: 8px;
-    margin-top: 8px;
+    padding: 0 10px;
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 4px;
+    margin-top: 6px;
 }
 
 .wrapper {
@@ -81,7 +85,7 @@ body {
 }
 .album--card {
     padding-bottom: 10px;
-    border-radius: 8px;
+    border-radius: 14px;
     display: flex;
     flex-direction: column;
     justify-content: center;

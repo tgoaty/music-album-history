@@ -2,7 +2,7 @@
   "albums": [
     {
       "id": 28886598,
-      "releaseDate": "12 01 2024",
+      "releaseDate": "12 Января 2024",
       "title": "Он сказал поехали!",
       "artist": "madk1d",
       "image": "https://avatars.yandex.net/get-music-content/9837803/34ff46bc.a.28886598-1/1000x1000",
@@ -87,7 +87,7 @@
     },
     {
       "id": 29780933,
-      "releaseDate": "01 03 2024",
+      "releaseDate": "1 Марта 2024",
       "title": "новый альбом про любовь",
       "artist": "zhanulka",
       "image": "https://avatars.yandex.net/get-music-content/10641165/ee139d6c.a.29780933-1/1000x1000",
@@ -151,8 +151,105 @@
       ]
     },
     {
+      "id": 29956239,
+      "releaseDate": "1 Марта 2024",
+      "title": "Близнецы: Eros",
+      "artist": "Джизус",
+      "image": "https://avatars.yandex.net/get-music-content/6386858/d273a5ff.a.29956239-1/1000x1000",
+      "tracks": [
+        {
+          "title": "Что мы с тобой наделали?",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/29956239/track/121814704",
+          "favorite": true,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Перенаселение",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/29956239/track/123152591",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Тебя теряю",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/29956239/track/123152592",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Демоны спасут тебя",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/29956239/track/123152593",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Всё по местам",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/29956239/track/123152594",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Век эвтаназии",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/29956239/track/123152595",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Всё было неправильно",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/29956239/track/123152596",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Жизнь и смерть",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/29956239/track/123152597",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Тёмный абажур",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/29956239/track/123152598",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Ток",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/29956239/track/123152599",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "6:30",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/29956239/track/123152600",
+          "favorite": true,
+          "contentWarning": false,
+          "feats": []
+        }
+      ]
+    },
+    {
       "id": 29984518,
-      "releaseDate": "08 03 2024",
+      "releaseDate": "8 Марта 2024",
       "title": "новый альбом про любовь (speed up)",
       "artist": "zhanulka",
       "image": "https://avatars.yandex.net/get-music-content/10874616/56d2e604.a.29984518-1/1000x1000",
@@ -211,6 +308,2246 @@
           "url": "https://music.yandex.ru/album/29984518/track/123208771",
           "favorite": false,
           "contentWarning": false,
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 30228278,
+      "releaseDate": "15 Марта 2024",
+      "title": "Близнецы: Thanatos",
+      "artist": "Джизус",
+      "image": "https://avatars.yandex.net/get-music-content/10874616/eca149f6.a.30228278-1/1000x1000",
+      "tracks": [
+        {
+          "title": "Москва",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/30228278/track/123740065",
+          "favorite": true,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Привет",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/30228278/track/123740066",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Временами всё пройдёт",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/30228278/track/122636351",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Дыши со мной",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/30228278/track/123740067",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Берегись!",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/30228278/track/123740068",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Беги отсюда",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/30228278/track/123740069",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Как красива зима в твоей комнате",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/30228278/track/123740070",
+          "favorite": true,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Выше",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/30228278/track/123740071",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Под твои колёса",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/30228278/track/123740072",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Забывать тебя",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/30228278/track/123740073",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Любовь тебя найдёт",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/30228278/track/123740074",
+          "favorite": true,
+          "contentWarning": false,
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 30319657,
+      "releaseDate": "22 Марта 2024",
+      "title": "GOD SYSTEM",
+      "artist": "Kai Angel",
+      "image": "https://avatars.yandex.net/get-music-content/6386858/53e38e57.a.30319657-1/1000x1000",
+      "tracks": [
+        {
+          "title": "1-800-PARADISE",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/30319657/track/123953366",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "SLAYERR",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/30319657/track/123953367",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "SPIDERR",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/30319657/track/123953368",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "EUPHORIA",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/30319657/track/123953369",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "RESTART",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/30319657/track/123953370",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "ХОЛОД",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/30319657/track/123953371",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "MYSPACE",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/30319657/track/123953372",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "VICTIM",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/30319657/track/123953373",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "DANCE LIKE U IN PAIN",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/30319657/track/122068458",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "RAW",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/30319657/track/123953374",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "RIOT",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/30319657/track/123953375",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "SHOW OFF",
+          "position": 12,
+          "url": "https://music.yandex.ru/album/30319657/track/123433594",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "DOLLARS OUT ON TOP ON GOD",
+          "position": 13,
+          "url": "https://music.yandex.ru/album/30319657/track/123953376",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "HILLS",
+          "position": 14,
+          "url": "https://music.yandex.ru/album/30319657/track/123953377",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "GOD SYSTEM",
+          "position": 15,
+          "url": "https://music.yandex.ru/album/30319657/track/123953378",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "BAD BITCHES ONLY",
+          "position": 16,
+          "url": "https://music.yandex.ru/album/30319657/track/123953379",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "/godmode",
+          "position": 17,
+          "url": "https://music.yandex.ru/album/30319657/track/123953380",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 30437892,
+      "releaseDate": "5 Апреля 2024",
+      "title": "PSYCHEDELIC LOVE",
+      "artist": "Pepel Nahudi",
+      "image": "https://avatars.yandex.net/get-music-content/6386858/d001713c.a.30437892-1/1000x1000",
+      "tracks": [
+        {
+          "title": "КТО ТЕБЕ ЭТО СКАЗАЛ",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/30437892/track/124222528",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "AUDIODRUG",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/30437892/track/124222529",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "ОБЪЯСНЕНИЯ",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/30437892/track/124222530",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Slattcrank"
+          ]
+        },
+        {
+          "title": "ТЫ МЕНЯ РАЗЛЮБИ",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/30437892/track/124222531",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "DON'T CALL ME",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/30437892/track/124222532",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "#F*CKITALL",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/30437892/track/124222533",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 30549757,
+      "releaseDate": "5 Апреля 2024",
+      "title": "Платина",
+      "artist": "Платина",
+      "image": "https://avatars.yandex.net/get-music-content/5878680/118f788f.a.30549757-2/1000x1000",
+      "tracks": [
+        {
+          "title": "Время на веселье",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/30549757/track/124469828",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "ХТТ",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/30549757/track/124469829",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Бассок",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/30549757/track/124469830",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "Voskresenskii"
+          ]
+        },
+        {
+          "title": "Бетховен",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/30549757/track/124469831",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "Scally Milano"
+          ]
+        },
+        {
+          "title": "Самый свежий на бите",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/30549757/track/124469832",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "У меня свег, у меня стиль",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/30549757/track/124469833",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Та самая..",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/30549757/track/124469834",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Я поверил ей..",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/30549757/track/124469835",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Виновата сама..",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/30549757/track/121922866",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "В темноте",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/30549757/track/124469836",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "BUSHIDO ZHO"
+          ]
+        },
+        {
+          "title": "Баленсиага парень (Боттега Бой)",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/30549757/track/124469837",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Плывут",
+          "position": 12,
+          "url": "https://music.yandex.ru/album/30549757/track/120588041",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Бритни Спирс",
+          "position": 13,
+          "url": "https://music.yandex.ru/album/30549757/track/124469838",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Грязный тип (Бомжи)",
+          "position": 14,
+          "url": "https://music.yandex.ru/album/30549757/track/124469840",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Гринч",
+          "position": 15,
+          "url": "https://music.yandex.ru/album/30549757/track/124469841",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "LOVV66"
+          ]
+        },
+        {
+          "title": "Одна",
+          "position": 16,
+          "url": "https://music.yandex.ru/album/30549757/track/124469843",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "LOVV66"
+          ]
+        },
+        {
+          "title": "Последнее свидание",
+          "position": 17,
+          "url": "https://music.yandex.ru/album/30549757/track/124469845",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Егор Сплит (Крид)"
+          ]
+        },
+        {
+          "title": "Твой любимый репер",
+          "position": 18,
+          "url": "https://music.yandex.ru/album/30549757/track/124469846",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Бейби",
+          "position": 19,
+          "url": "https://music.yandex.ru/album/30549757/track/124469848",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Завидуют",
+          "position": 20,
+          "url": "https://music.yandex.ru/album/30549757/track/124469850",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Завидуют",
+          "position": 21,
+          "url": "https://music.yandex.ru/album/30549757/track/124469851",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Один дома",
+          "position": 22,
+          "url": "https://music.yandex.ru/album/30549757/track/124469853",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Гоблин",
+          "position": 23,
+          "url": "https://music.yandex.ru/album/30549757/track/124469854",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 30626086,
+      "releaseDate": "19 Апреля 2024",
+      "title": "MURDA M",
+      "artist": "Yeschapskii",
+      "image": "https://avatars.yandex.net/get-music-content/5503671/7b366712.a.30626086-1/1000x1000",
+      "tracks": [
+        {
+          "title": "НИКТО НЕ ХОЧЕТ",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/30626086/track/124630258",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Sematary",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/30626086/track/124630259",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Гриффины",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/30626086/track/124630260",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 31348570,
+      "releaseDate": "24 Мая 2024",
+      "title": "Молитвы. Анекдоты. Тосты.",
+      "artist": "Монеточка",
+      "image": "https://avatars.yandex.net/get-music-content/9837520/0a775505.a.31348570-1/1000x1000",
+      "tracks": [
+        {
+          "title": "Это было в России",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/31348570/track/126278857",
+          "favorite": true,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Остановилось",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/31348570/track/126278858",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Заново",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/31348570/track/126278859",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Монополия",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/31348570/track/126278860",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Жучка",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/31348570/track/126278861",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "У мамы есть секрет",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/31348570/track/126278862",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Кис Кис Кис",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/31348570/track/126278863",
+          "favorite": true,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Селфхарм",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/31348570/track/126278864",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Птичка",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/31348570/track/126278865",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "Выше крыш",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/31348570/track/126278866",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 31315829,
+      "releaseDate": "31 Мая 2024",
+      "title": "Застольные Психоделические Песни",
+      "artist": "Валентин Дядька",
+      "image": "https://avatars.yandex.net/get-music-content/9868087/397ee714.a.31315829-1/1000x1000",
+      "tracks": [
+        {
+          "title": "Поздравок-интро",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/31315829/track/126204512",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Камень Урины",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/31315829/track/126204513",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Будущее",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/31315829/track/126204514",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Парик из твоих лобковых волос",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/31315829/track/126204515",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Висяк",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/31315829/track/126204516",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Дедагнида",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/31315829/track/126204517",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Операция \"Преемник\"",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/31315829/track/126204518",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Киндер Буэно",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/31315829/track/126204519",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Инцидент с Конём",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/31315829/track/126204520",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Космический Мусор",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/31315829/track/126204521",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Попрыгун",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/31315829/track/126204522",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Звонок Бронеслава",
+          "position": 12,
+          "url": "https://music.yandex.ru/album/31315829/track/126204523",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Мудозвоны",
+          "position": 13,
+          "url": "https://music.yandex.ru/album/31315829/track/126204524",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "ЯВЛЕНИЕ УЧИТЕЛЯ",
+          "position": 14,
+          "url": "https://music.yandex.ru/album/31315829/track/126204525",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Домовой",
+          "position": 15,
+          "url": "https://music.yandex.ru/album/31315829/track/126204526",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Лавбомбинг",
+          "position": 16,
+          "url": "https://music.yandex.ru/album/31315829/track/126204527",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Папина кассета",
+          "position": 17,
+          "url": "https://music.yandex.ru/album/31315829/track/126204528",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "ПИЩБДСМ",
+          "position": 18,
+          "url": "https://music.yandex.ru/album/31315829/track/126204529",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Туалетная Муха",
+          "position": 19,
+          "url": "https://music.yandex.ru/album/31315829/track/126204530",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Про Щенка",
+          "position": 20,
+          "url": "https://music.yandex.ru/album/31315829/track/126204531",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Свинское Регги",
+          "position": 21,
+          "url": "https://music.yandex.ru/album/31315829/track/126204532",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Штурм колонии для инвалидов",
+          "position": 22,
+          "url": "https://music.yandex.ru/album/31315829/track/126204533",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Гнидадеда",
+          "position": 23,
+          "url": "https://music.yandex.ru/album/31315829/track/126204534",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Нафтизинщики",
+          "position": 24,
+          "url": "https://music.yandex.ru/album/31315829/track/126204535",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Планета Параша",
+          "position": 25,
+          "url": "https://music.yandex.ru/album/31315829/track/126204536",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Не стреляйте в пианиста",
+          "position": 26,
+          "url": "https://music.yandex.ru/album/31315829/track/126204537",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Сверчок",
+          "position": 27,
+          "url": "https://music.yandex.ru/album/31315829/track/126204538",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Озеро Таймыр",
+          "position": 28,
+          "url": "https://music.yandex.ru/album/31315829/track/126204539",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Моисей Угрин",
+          "position": 29,
+          "url": "https://music.yandex.ru/album/31315829/track/126204540",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Конец застолья",
+          "position": 30,
+          "url": "https://music.yandex.ru/album/31315829/track/126204541",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 31574614,
+      "releaseDate": "7 Июня 2024",
+      "title": "Streets Echo 2052",
+      "artist": "ALBLAK 52",
+      "image": "https://avatars.yandex.net/get-music-content/10129881/3d8834ad.a.31574614-1/1000x1000",
+      "tracks": [
+        {
+          "title": "Intro. Здравствуйте!",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/31574614/track/126843926",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "On The Line",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/31574614/track/126843927",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "TOUGH GUY",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/31574614/track/126843928",
+          "favorite": false,
+          "contentWarning": "clean",
+          "feats": []
+        },
+        {
+          "title": "Where I came from",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/31574614/track/126843929",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Only 1 Heart",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/31574614/track/126843930",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "kizaru"
+          ]
+        },
+        {
+          "title": "Fortune",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/31574614/track/126843931",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Hail",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/31574614/track/126843932",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "INTERNATIONAL",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/31574614/track/126843933",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "GO UP, EAGLE / YEEI 9",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/31574614/track/126843934",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Спокойной ночи",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/31574614/track/126843935",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "Скриптонит",
+            "FRIENDLY THUG 52 NGG"
+          ]
+        },
+        {
+          "title": "Заря",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/31574614/track/126843936",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Всегда",
+          "position": 12,
+          "url": "https://music.yandex.ru/album/31574614/track/126843937",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "VibeTGK",
+            "Jahmal TGK"
+          ]
+        },
+        {
+          "title": "Память",
+          "position": 13,
+          "url": "https://music.yandex.ru/album/31574614/track/126843938",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "MyDee 52"
+          ]
+        },
+        {
+          "title": "Как и мы",
+          "position": 14,
+          "url": "https://music.yandex.ru/album/31574614/track/122886872",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Записки (outro)",
+          "position": 15,
+          "url": "https://music.yandex.ru/album/31574614/track/126843939",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 31557913,
+      "releaseDate": "7 Июня 2024",
+      "title": "JERK SHIT HAPPENS 2",
+      "artist": "unki",
+      "image": "https://avatars.yandex.net/get-music-content/10099790/8e72095b.a.31557913-1/1000x1000",
+      "tracks": [
+        {
+          "title": "NEW BOYS",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/31557913/track/126802016",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "СARRY",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/31557913/track/126802017",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "OG Buda"
+          ]
+        },
+        {
+          "title": "KENNY",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/31557913/track/126043434",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "BALLOUT",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/31557913/track/122053558",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "VIP",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/31557913/track/126802018",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "BUSHIDO ZHO"
+          ]
+        },
+        {
+          "title": "JUNK FOOD",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/31557913/track/126802019",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "WHITE MONEY",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/31557913/track/126802020",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 31785098,
+      "releaseDate": "28 Июня 2024",
+      "title": "PEEKABOO",
+      "artist": "Big Baby Tape, Aarne",
+      "image": "https://avatars.yandex.net/get-music-content/10126140/62e8ae69.a.31785098-4/1000x1000",
+      "tracks": [
+        {
+          "title": "Training Day",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/31785098/track/127365607",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne"
+          ]
+        },
+        {
+          "title": "Coldest Man",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/31785098/track/127365608",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne"
+          ]
+        },
+        {
+          "title": "MJ Flow",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/31785098/track/127365609",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne"
+          ]
+        },
+        {
+          "title": "Not Obama",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/31785098/track/127365610",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne"
+          ]
+        },
+        {
+          "title": "Da Law",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/31785098/track/127365611",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne",
+            "ICEGERGERT"
+          ]
+        },
+        {
+          "title": "BFF Interlude",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/31785098/track/127365612",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne"
+          ]
+        },
+        {
+          "title": "Supersonic",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/31785098/track/127365613",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": [
+            "Aarne"
+          ]
+        },
+        {
+          "title": "Ameli",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/31785098/track/127365614",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne",
+            "Toxi$"
+          ]
+        },
+        {
+          "title": "EDM",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/31785098/track/127365615",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne",
+            "Платина"
+          ]
+        },
+        {
+          "title": "Closer",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/31785098/track/127365616",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne"
+          ]
+        },
+        {
+          "title": "Taz Muzik",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/31785098/track/127365617",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne",
+            "Voskresenskii"
+          ]
+        },
+        {
+          "title": "FREESOSA",
+          "position": 12,
+          "url": "https://music.yandex.ru/album/31785098/track/127365618",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne",
+            "FEDUK"
+          ]
+        },
+        {
+          "title": "Krug",
+          "position": 13,
+          "url": "https://music.yandex.ru/album/31785098/track/127365619",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne",
+            "Платина"
+          ]
+        },
+        {
+          "title": "Four Seasons",
+          "position": 14,
+          "url": "https://music.yandex.ru/album/31785098/track/127365620",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne"
+          ]
+        },
+        {
+          "title": "AAutro",
+          "position": 15,
+          "url": "https://music.yandex.ru/album/31785098/track/127365621",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Aarne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31807414,
+      "releaseDate": "5 Июля 2024",
+      "title": "BEACH ROCK HOTEL",
+      "artist": "SALUKI",
+      "image": "https://avatars.yandex.net/get-music-content/10126140/576d39ce.a.31807414-1/1000x1000",
+      "tracks": [
+        {
+          "title": "CHANEL CC",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/31807414/track/127422715",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "SPORT",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/31807414/track/127395398",
+          "favorite": true,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "BEIRUT",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/31807414/track/127422716",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "ГДЕ БЫ Я НИ ЗАСНУЛ",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/31807414/track/127422718",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "1HUNNA",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/31807414/track/127422720",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "BEACH ROCK",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/31807414/track/127422722",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "ЛИХОЛЕСЬЕ",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/31807414/track/127422724",
+          "favorite": true,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "MIDNIGHT IN KAŞ",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/31807414/track/127422725",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "BLACK SUN",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/31807414/track/127422737",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "HEAVEN IND.",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/31807414/track/127422739",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "11",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/31807414/track/127422740",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 32138135,
+      "releaseDate": "12 Июля 2024",
+      "title": "Искусство",
+      "artist": "Scally Milano, uglystephan",
+      "image": "https://avatars.yandex.net/get-music-content/10960834/93b955ce.a.32138135-1/1000x1000",
+      "tracks": [
+        {
+          "title": "Никогда",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/32138135/track/128237152",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "uglystephan"
+          ]
+        },
+        {
+          "title": "Сутенёр",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/32138135/track/128237153",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "uglystephan"
+          ]
+        },
+        {
+          "title": "Плохая",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/32138135/track/128237154",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "uglystephan"
+          ]
+        },
+        {
+          "title": "На Адвоката",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/32138135/track/128237155",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "uglystephan"
+          ]
+        },
+        {
+          "title": "Бандито",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/32138135/track/128237156",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "uglystephan"
+          ]
+        },
+        {
+          "title": "При Бабках",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/32138135/track/128237157",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "uglystephan"
+          ]
+        },
+        {
+          "title": "Во Снах",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/32138135/track/128237158",
+          "favorite": false,
+          "contentWarning": "clean",
+          "feats": [
+            "uglystephan"
+          ]
+        },
+        {
+          "title": "Ты Знала",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/32138135/track/128016893",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "uglystephan"
+          ]
+        },
+        {
+          "title": "Нахуй Любовь",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/32138135/track/128237159",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "uglystephan"
+          ]
+        },
+        {
+          "title": "Я Не Фрик",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/32138135/track/128237160",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "uglystephan"
+          ]
+        },
+        {
+          "title": "Туда Сюда Миллионер",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/32138135/track/126984723",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "uglystephan"
+          ]
+        },
+        {
+          "title": "Порезы",
+          "position": 12,
+          "url": "https://music.yandex.ru/album/32138135/track/128237161",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "uglystephan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32271634,
+      "releaseDate": "19 Июля 2024",
+      "title": "QUAZIMODO",
+      "artist": "kizaru",
+      "image": "https://avatars.yandex.net/get-music-content/10960834/f4d8e8d0.a.32271634-1/1000x1000",
+      "tracks": [
+        {
+          "title": "INTRO - Mum",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/32271634/track/128562273",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        },
+        {
+          "title": "HIGH SPEED",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/32271634/track/128562274",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "OBUZA",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/32271634/track/128562275",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "SECRETS",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/32271634/track/128562276",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "ASSORTI",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/32271634/track/128562277",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "SKIT (Obe 1 Freestyle)",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/32271634/track/128562278",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "OLEGANO HULIGANO PISTOLETTO",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/32271634/track/128562279",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "SHIESTY SUMMER",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/32271634/track/128562280",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "HOLY GRAIL",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/32271634/track/128562281",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "MECENAT",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/32271634/track/128562283",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "BUKVA U",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/32271634/track/128562284",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "QUAZIMODO",
+          "position": 12,
+          "url": "https://music.yandex.ru/album/32271634/track/128562285",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "FLIPPIN N FINESSIN",
+          "position": 13,
+          "url": "https://music.yandex.ru/album/32271634/track/128562286",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "PUS SY GOVORYAT",
+          "position": 14,
+          "url": "https://music.yandex.ru/album/32271634/track/128562289",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "300",
+          "position": 15,
+          "url": "https://music.yandex.ru/album/32271634/track/128562290",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "AFK",
+          "position": 16,
+          "url": "https://music.yandex.ru/album/32271634/track/128562292",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "OUTRO",
+          "position": 17,
+          "url": "https://music.yandex.ru/album/32271634/track/128562293",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 33207179,
+      "releaseDate": "13 Сентября 2024",
+      "title": "Heavy Metal 2",
+      "artist": "9mice, Kai Angel",
+      "image": "https://avatars.yandex.net/get-music-content/14183125/b8b9eecf.a.33207179-1/1000x1000",
+      "tracks": [
+        {
+          "title": "Cyber Is Dead Interlude",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/33207179/track/130919909",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Fountainebleu",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/33207179/track/130919915",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Phoenix",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/33207179/track/130919918",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Blum - Big City Life",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/33207179/track/130919925",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Ринопластика (Surgery)",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/33207179/track/130919931",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Paparazzi",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/33207179/track/130919934",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "So Good",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/33207179/track/130919938",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Frank Ocean",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/33207179/track/130919941",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "2017",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/33207179/track/130919946",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Da Vinci",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/33207179/track/130919952",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "LMFAO",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/33207179/track/130919957",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Ice + Alabaster",
+          "position": 12,
+          "url": "https://music.yandex.ru/album/33207179/track/130919960",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Tusa V.I.P.",
+          "position": 13,
+          "url": "https://music.yandex.ru/album/33207179/track/130919962",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "I Love God",
+          "position": 14,
+          "url": "https://music.yandex.ru/album/33207179/track/130919964",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Smells Like Teen Spirit",
+          "position": 15,
+          "url": "https://music.yandex.ru/album/33207179/track/130919965",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Hollywood Takeover…",
+          "position": 16,
+          "url": "https://music.yandex.ru/album/33207179/track/130919967",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "I Wanna Be Your Dog",
+          "position": 17,
+          "url": "https://music.yandex.ru/album/33207179/track/130919969",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Hate People",
+          "position": 18,
+          "url": "https://music.yandex.ru/album/33207179/track/130919971",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Fire Alarm",
+          "position": 19,
+          "url": "https://music.yandex.ru/album/33207179/track/130919972",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Murder On The Dancefloor",
+          "position": 20,
+          "url": "https://music.yandex.ru/album/33207179/track/130919973",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        },
+        {
+          "title": "Homecoming",
+          "position": 21,
+          "url": "https://music.yandex.ru/album/33207179/track/130919974",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Kai Angel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33439165,
+      "releaseDate": "27 Сентября 2024",
+      "title": "1749",
+      "artist": "zhanulka, КАКАЯ РАЗНИЦА",
+      "image": "https://avatars.yandex.net/get-music-content/14183125/a9b94e31.a.33439165-1/1000x1000",
+      "tracks": [
+        {
+          "title": "тройка мечей",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/33439165/track/131500828",
+          "favorite": true,
+          "contentWarning": false,
+          "feats": [
+            "КАКАЯ РАЗНИЦА"
+          ]
+        },
+        {
+          "title": "неподвижным",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/33439165/track/131500829",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "КАКАЯ РАЗНИЦА"
+          ]
+        },
+        {
+          "title": "крестики-нолики",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/33439165/track/131500830",
+          "favorite": true,
+          "contentWarning": false,
+          "feats": [
+            "КАКАЯ РАЗНИЦА"
+          ]
+        },
+        {
+          "title": "думать/не спать",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/33439165/track/131500831",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": [
+            "КАКАЯ РАЗНИЦА"
+          ]
+        },
+        {
+          "title": "триггер",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/33439165/track/131500832",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "КАКАЯ РАЗНИЦА"
+          ]
+        },
+        {
+          "title": "моменты",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/33439165/track/131500834",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": [
+            "КАКАЯ РАЗНИЦА"
+          ]
+        },
+        {
+          "title": "матрицы",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/33439165/track/131500835",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": [
+            "КАКАЯ РАЗНИЦА"
+          ]
+        },
+        {
+          "title": "аспирин",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/33439165/track/131500837",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": [
+            "КАКАЯ РАЗНИЦА"
+          ]
+        },
+        {
+          "title": "комната",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/33439165/track/131500839",
+          "favorite": false,
+          "contentWarning": false,
+          "feats": [
+            "КАКАЯ РАЗНИЦА"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33611143,
+      "releaseDate": "11 Октября 2024",
+      "title": "FREERIO 3",
+      "artist": "OG Buda",
+      "image": "https://avatars.yandex.net/get-music-content/9837520/b8f4f78c.a.33611143-3/1000x1000",
+      "tracks": [
+        {
+          "title": "На Рожке и На Мне",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/33611143/track/131898070",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Все Ждут Дроп",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/33611143/track/131898071",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Пинту в Ванну",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/33611143/track/131898072",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "163ONMYNECK"
+          ]
+        },
+        {
+          "title": "Клонировали",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/33611143/track/131898073",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Форэн Кисуля Флоу :3",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/33611143/track/131898074",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Ботиночки",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/33611143/track/131898075",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "Voskresenskii"
+          ]
+        },
+        {
+          "title": "Мода Летит Пиздец",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/33611143/track/131898076",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Баста"
+          ]
+        },
+        {
+          "title": "Бэйбитрон 3",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/33611143/track/131898078",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Сайфер 2 (Могу Купить РЗТ)",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/33611143/track/131898079",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": [
+            "unki",
+            "Toxi$",
+            "SIDODGI DUBOSHIT"
+          ]
+        },
+        {
+          "title": "Умереть Хочешь?",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/33611143/track/131898080",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Джон Гарик"
+          ]
+        },
+        {
+          "title": "Грусть 3",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/33611143/track/131898084",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Slatt Savage"
+          ]
+        },
+        {
+          "title": "Плюсик в Чат (Бан)",
+          "position": 12,
+          "url": "https://music.yandex.ru/album/33611143/track/131898085",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Могу",
+          "position": 13,
+          "url": "https://music.yandex.ru/album/33611143/track/131898087",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Заедем в Азбуку",
+          "position": 14,
+          "url": "https://music.yandex.ru/album/33611143/track/131898091",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Дончич + Йокич",
+          "position": 15,
+          "url": "https://music.yandex.ru/album/33611143/track/131898094",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "MAYOT"
+          ]
+        },
+        {
+          "title": "Не Охото Рэповать",
+          "position": 16,
+          "url": "https://music.yandex.ru/album/33611143/track/131898095",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Доггер",
+          "position": 17,
+          "url": "https://music.yandex.ru/album/33611143/track/131898096",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "4n Way",
+            "Баста"
+          ]
+        },
+        {
+          "title": "Порой Белый Хочет...",
+          "position": 18,
+          "url": "https://music.yandex.ru/album/33611143/track/131898097",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        }
+      ]
+    },
+    {
+      "id": 33625674,
+      "releaseDate": "18 Октября 2024",
+      "title": "AUTUMN BLUES",
+      "artist": "Pepel Nahudi",
+      "image": "https://avatars.yandex.net/get-music-content/13529784/668ca210.a.33625674-1/1000x1000",
+      "tracks": [
+        {
+          "title": "ПОДЛИННОСТИ",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/33625674/track/131976903",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "IDMD",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/33625674/track/131976904",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Я НЕ МОГУ СПАТЬ",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/33625674/track/131976905",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "BURNOUT",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/33625674/track/131976906",
+          "favorite": false,
+          "contentWarning": "clean",
+          "feats": []
+        },
+        {
+          "title": "HUYOMAYO",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/33625674/track/131976907",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "ONLY FOR MONEY",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/33625674/track/131976908",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "SOLO",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/33625674/track/131976909",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "I CAN",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/33625674/track/131976910",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "ANXIETY",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/33625674/track/131976911",
+          "favorite": false,
+          "contentWarning": "clean",
+          "feats": []
+        },
+        {
+          "title": "SPBMSK",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/33625674/track/131976912",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "ONE CALL",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/33625674/track/131976913",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "НЕ ВОЗЛЕ",
+          "position": 12,
+          "url": "https://music.yandex.ru/album/33625674/track/131976914",
+          "favorite": false,
+          "contentWarning": "clean",
+          "feats": []
+        },
+        {
+          "title": "БЕЗ ТЕБЯ",
+          "position": 13,
+          "url": "https://music.yandex.ru/album/33625674/track/131976915",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "#CHALLENGE",
+          "position": 14,
+          "url": "https://music.yandex.ru/album/33625674/track/131976916",
+          "favorite": false,
+          "contentWarning": "clean",
+          "feats": []
+        },
+        {
+          "title": "AUTUMN WINGS",
+          "position": 15,
+          "url": "https://music.yandex.ru/album/33625674/track/131976920",
+          "favorite": false,
+          "contentWarning": "clean",
           "feats": []
         }
       ]
