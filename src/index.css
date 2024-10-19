@@ -71,7 +71,7 @@ body {
     flex-direction: column;
     row-gap: 20px;
     width: 100%;
-    padding: 30px;
+    padding: 30px 20px;
 }
 
 .album {
