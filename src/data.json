@@ -4,14 +4,15 @@
       "id": 28886598,
       "releaseDate": "12 01 2024",
       "title": "Он сказал поехали!",
-      "author": "madk1d",
+      "artist": "madk1d",
       "image": "https://avatars.yandex.net/get-music-content/9837803/34ff46bc.a.28886598-1/1000x1000",
       "tracks": [
         {
           "title": "типичная ситуация (prod. by vhs)",
           "position": 1,
           "url": "https://music.yandex.ru/album/28886598/track/120185409",
-          "favorite": false,
+          "favorite": true,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
@@ -19,6 +20,7 @@
           "position": 2,
           "url": "https://music.yandex.ru/album/28886598/track/119890653",
           "favorite": false,
+          "contentWarning": "explicit",
           "feats": [
             "CUPSIZE"
           ]
@@ -28,6 +30,7 @@
           "position": 3,
           "url": "https://music.yandex.ru/album/28886598/track/120805923",
           "favorite": false,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
@@ -35,13 +38,15 @@
           "position": 4,
           "url": "https://music.yandex.ru/album/28886598/track/119890654",
           "favorite": false,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
           "title": "мориарти (prod. by feihua)",
           "position": 5,
           "url": "https://music.yandex.ru/album/28886598/track/120805924",
-          "favorite": false,
+          "favorite": true,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
@@ -49,6 +54,7 @@
           "position": 6,
           "url": "https://music.yandex.ru/album/28886598/track/120805925",
           "favorite": false,
+          "contentWarning": "explicit",
           "feats": [
             "nobody"
           ]
@@ -57,7 +63,8 @@
           "title": "number 9",
           "position": 7,
           "url": "https://music.yandex.ru/album/28886598/track/120805926",
-          "favorite": false,
+          "favorite": true,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
@@ -65,6 +72,7 @@
           "position": 8,
           "url": "https://music.yandex.ru/album/28886598/track/120805927",
           "favorite": false,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
@@ -72,6 +80,7 @@
           "position": 9,
           "url": "https://music.yandex.ru/album/28886598/track/120805928",
           "favorite": false,
+          "contentWarning": "explicit",
           "feats": []
         }
       ]
@@ -80,14 +89,15 @@
       "id": 29780933,
       "releaseDate": "01 03 2024",
       "title": "новый альбом про любовь",
-      "author": "zhanulka",
+      "artist": "zhanulka",
       "image": "https://avatars.yandex.net/get-music-content/10641165/ee139d6c.a.29780933-1/1000x1000",
       "tracks": [
         {
           "title": "наколки",
           "position": 1,
           "url": "https://music.yandex.ru/album/29780933/track/121599291",
-          "favorite": false,
+          "favorite": true,
+          "contentWarning": false,
           "feats": []
         },
         {
@@ -95,13 +105,15 @@
           "position": 2,
           "url": "https://music.yandex.ru/album/29780933/track/122782068",
           "favorite": false,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
           "title": "первый скилл",
           "position": 3,
           "url": "https://music.yandex.ru/album/29780933/track/122782069",
-          "favorite": false,
+          "favorite": true,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
@@ -109,6 +121,7 @@
           "position": 4,
           "url": "https://music.yandex.ru/album/29780933/track/122782070",
           "favorite": false,
+          "contentWarning": false,
           "feats": []
         },
         {
@@ -116,13 +129,15 @@
           "position": 5,
           "url": "https://music.yandex.ru/album/29780933/track/122782071",
           "favorite": false,
+          "contentWarning": false,
           "feats": []
         },
         {
           "title": "лазить по стенам",
           "position": 6,
           "url": "https://music.yandex.ru/album/29780933/track/122782072",
-          "favorite": false,
+          "favorite": true,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
@@ -130,6 +145,7 @@
           "position": 7,
           "url": "https://music.yandex.ru/album/29780933/track/122782073",
           "favorite": false,
+          "contentWarning": false,
           "feats": []
         }
       ]
@@ -138,14 +154,15 @@
       "id": 29984518,
       "releaseDate": "08 03 2024",
       "title": "новый альбом про любовь (speed up)",
-      "author": "zhanulka",
+      "artist": "zhanulka",
       "image": "https://avatars.yandex.net/get-music-content/10874616/56d2e604.a.29984518-1/1000x1000",
       "tracks": [
         {
           "title": "наколки (speed up)",
           "position": 1,
           "url": "https://music.yandex.ru/album/29984518/track/123208765",
-          "favorite": false,
+          "favorite": true,
+          "contentWarning": false,
           "feats": []
         },
         {
@@ -153,13 +170,15 @@
           "position": 2,
           "url": "https://music.yandex.ru/album/29984518/track/123208766",
           "favorite": false,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
           "title": "первый скилл (speed up)",
           "position": 3,
           "url": "https://music.yandex.ru/album/29984518/track/123208767",
-          "favorite": false,
+          "favorite": true,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
@@ -167,6 +186,7 @@
           "position": 4,
           "url": "https://music.yandex.ru/album/29984518/track/123208768",
           "favorite": false,
+          "contentWarning": false,
           "feats": []
         },
         {
@@ -174,13 +194,15 @@
           "position": 5,
           "url": "https://music.yandex.ru/album/29984518/track/123208769",
           "favorite": false,
+          "contentWarning": false,
           "feats": []
         },
         {
           "title": "лазить по стенам (speed up)",
           "position": 6,
           "url": "https://music.yandex.ru/album/29984518/track/123208770",
-          "favorite": false,
+          "favorite": true,
+          "contentWarning": "explicit",
           "feats": []
         },
         {
@@ -188,6 +210,7 @@
           "position": 7,
           "url": "https://music.yandex.ru/album/29984518/track/123208771",
           "favorite": false,
+          "contentWarning": false,
           "feats": []
         }
       ]

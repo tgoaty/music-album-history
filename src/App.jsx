@@ -6,8 +6,7 @@ const App = () => {
     <div className="wrapper">
       {albumsData.albums.map((album) => (
         <div className="album" key={album.id}>
-          <h2 className="releaseDate">{album.releaseDate}</h2>
-          <AlbumCard album={album} />
+          <AlbumCard album={album}/>
         </div>
       ))}
     </div>
