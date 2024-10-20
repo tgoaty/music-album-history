@@ -61,9 +61,7 @@ body {
 }
 
 .releaseDate {
-
-    padding: 0 12px;
-    width: 100%;
+    width: 300px;
     text-align: left;
     font-size: 16px;
     font-weight: 500;
@@ -150,7 +148,7 @@ body {
     text-align: right;
     display: flex;
     align-items: center;
-    justify-content: right;
+    justify-content: center;
     width: 12px;
     font-weight: 400;
     font-size: 12px;
@@ -174,7 +172,7 @@ body {
 
 @media screen and (min-width: 800px) {
     .releaseDate {
-        padding: 0 50px;
+        width: 400px;
     }
 
     .image {
