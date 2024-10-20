@@ -61,21 +61,22 @@ body {
 }
 
 .releaseDate {
-    padding: 0 10px;
+
+    padding: 0 12px;
     width: 100%;
     text-align: left;
     font-size: 16px;
     font-weight: 500;
-    margin-bottom: 4px;
-    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-top: 20px;
 }
 
 .wrapper {
     display: flex;
     flex-direction: column;
-    row-gap: 20px;
+    row-gap: 40px;
     width: 100%;
-    padding: 30px 20px;
+    padding: 30px 16px;
 }
 
 .album {
@@ -83,14 +84,16 @@ body {
     margin: 0 auto;
 
 }
+
 .album--card {
     opacity: 0; /* Изначально невидим */
     transform: translateY(20px); /* Сдвинут немного вниз */
     transition: opacity 0.6s ease-out, transform 0.6s ease-out;
 
 }
+
 .album--card.show {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     border-radius: 14px;
     display: flex;
     flex-direction: column;
@@ -105,10 +108,13 @@ body {
     width: 300px;
     border-radius: 8px;
 }
+
 .album--info {
     width: 300px;
 }
+
 .title {
+    margin: 8px 0;
 }
 
 .author {
@@ -141,13 +147,17 @@ body {
 }
 
 .track--position {
+    text-align: right;
     display: flex;
     align-items: center;
+    justify-content: right;
+    width: 12px;
     font-weight: 400;
     font-size: 12px;
     color: #d6d6d6;
     margin-right: 6px;
 }
+
 .track--title {
     font-size: 16px;
     font-weight: 400;
@@ -163,10 +173,19 @@ body {
 }
 
 @media screen and (min-width: 800px) {
+    .releaseDate {
+        padding: 0 50px;
+    }
+
     .image {
         width: 400px;
     }
+
     .album--info {
         width: 400px;
+    }
+
+    .album {
+        width: 500px;
     }
 }
