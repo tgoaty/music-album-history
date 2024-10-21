@@ -1,53 +1,53 @@
-import React, { useRef, useState, useEffect } from "react";
+import React, {useRef, useState, useEffect} from "react";
 import ColorThief from 'colorthief';
 
-const AlbumCard = ({ album }) => {
+const AlbumCard = ({album}) => {
   const [onlyFavorite, setOnlyFavorite] = useState(false);
   const albumCardRef = useRef(null);
   const imageRef = useRef(null);
   const [gradient, setGradient] = useState('');
   const [isVisible, setIsVisible] = useState(false);
 
-  // Функция для получения цвета изображения
+
   const getColorsFromImage = () => {
     const colorThief = new ColorThief();
     if (imageRef.current && imageRef.current.complete) {
-      const colors = colorThief.getPalette(imageRef.current, 2); // Получаем 2 доминирующих цвета
-      const color1 = `rgb(${colors[0].join(',')})`; // Первый цвет
-      const color2 = `rgb(${colors[1].join(',')})`; // Второй цвет
+      const colors = colorThief.getPalette(imageRef.current, 2);
+      const color1 = `rgb(${colors[0].join(',')})`;
+      const color2 = `rgb(${colors[1].join(',')})`;
       setGradient(`linear-gradient(135deg, ${color1}, ${color2})`);
     }
   };
 
-  // useEffect для получения цветов после загрузки изображения
+
   useEffect(() => {
     if (imageRef.current) {
       if (imageRef.current.complete) {
-        getColorsFromImage(); // Если изображение уже загружено
+        getColorsFromImage();
       } else {
-        imageRef.current.addEventListener('load', getColorsFromImage); // Если изображение загружается
+        imageRef.current.addEventListener('load', getColorsFromImage);
       }
     }
     return () => {
       if (imageRef.current) {
-        imageRef.current.removeEventListener('load', getColorsFromImage); // Чистим обработчик при демонтировании
+        imageRef.current.removeEventListener('load', getColorsFromImage);
       }
     };
   }, []);
 
-  // useEffect для отслеживания появления карточки в зоне видимости
+
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
-            setIsVisible(true); // Устанавливаем видимость
-            observer.disconnect(); // Отключаем наблюдатель, как только элемент виден
+            setIsVisible(true);
+            observer.disconnect();
           }
         });
       },
       {
-        threshold: 0.1, // 10% карточки должно быть видно
+        threshold: 0.08, // 10% карточки должно быть видно
       }
     );
 
@@ -62,7 +62,7 @@ const AlbumCard = ({ album }) => {
     };
   }, []);
 
-  // Обработчик клика для переключения favorite и прокрутки
+
   const handleClick = () => {
     setOnlyFavorite(!onlyFavorite);
     if (albumCardRef.current && !onlyFavorite) {
@@ -77,7 +77,7 @@ const AlbumCard = ({ album }) => {
     <div
       className={`album--card ${isVisible ? 'show' : ''}`} // Добавляем класс 'show', когда элемент видим
       ref={albumCardRef}
-      style={{ background: gradient }}
+      style={{background: gradient}}
     >
       <h2 className="releaseDate">{album.releaseDate}</h2>
       <img
@@ -86,7 +86,7 @@ const AlbumCard = ({ album }) => {
         className="image"
         src={album.image}
         alt={album.title}
-        crossOrigin="anonymous" // Важно для получения цветов с изображений из внешних источников
+        crossOrigin="anonymous"
       />
       <div className="album--info">
         <h2 className="title">{album.title}</h2>

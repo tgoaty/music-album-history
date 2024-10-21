@@ -2424,6 +2424,147 @@
       ]
     },
     {
+      "id": 33551722,
+      "releaseDate": "18 Октября 2024",
+      "title": "Россия34",
+      "artist": "Слава КПСС",
+      "image": "https://avatars.yandex.net/get-music-content/9868087/be8d6aee.a.33551722-1/1000x1000",
+      "tracks": [
+        {
+          "title": "IntroFreestyle2024",
+          "position": 1,
+          "url": "https://music.yandex.ru/album/33551722/track/131402974",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Когда ты сломан",
+          "position": 2,
+          "url": "https://music.yandex.ru/album/33551722/track/131794588",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "ЮГ 404"
+          ]
+        },
+        {
+          "title": "Страна-Гангстер",
+          "position": 3,
+          "url": "https://music.yandex.ru/album/33551722/track/131794589",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "812",
+          "position": 4,
+          "url": "https://music.yandex.ru/album/33551722/track/131794590",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Я остаюсь",
+          "position": 5,
+          "url": "https://music.yandex.ru/album/33551722/track/131794591",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Мои пацаны",
+          "position": 6,
+          "url": "https://music.yandex.ru/album/33551722/track/131794592",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Элизиум",
+          "position": 7,
+          "url": "https://music.yandex.ru/album/33551722/track/131794593",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Блеск и нищета",
+          "position": 8,
+          "url": "https://music.yandex.ru/album/33551722/track/131794594",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Мне стыдно жить",
+          "position": 9,
+          "url": "https://music.yandex.ru/album/33551722/track/131794595",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Деньги и Бог",
+          "position": 10,
+          "url": "https://music.yandex.ru/album/33551722/track/131794596",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Я люблю тебя, девочка",
+          "position": 11,
+          "url": "https://music.yandex.ru/album/33551722/track/131794597",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Кристал Кейт",
+          "position": 12,
+          "url": "https://music.yandex.ru/album/33551722/track/131794598",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": [
+            "Masha Hima"
+          ]
+        },
+        {
+          "title": "Все любят мертвых",
+          "position": 13,
+          "url": "https://music.yandex.ru/album/33551722/track/131794599",
+          "favorite": true,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Хит Леджер",
+          "position": 14,
+          "url": "https://music.yandex.ru/album/33551722/track/131794600",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Нас делают травмы",
+          "position": 15,
+          "url": "https://music.yandex.ru/album/33551722/track/131794601",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        },
+        {
+          "title": "Я не верю в смерть",
+          "position": 16,
+          "url": "https://music.yandex.ru/album/33551722/track/131794602",
+          "favorite": false,
+          "contentWarning": "explicit",
+          "feats": []
+        }
+      ]
+    },
+    {
       "id": 33625674,
       "releaseDate": "18 Октября 2024",
       "title": "AUTUMN BLUES",
