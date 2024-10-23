@@ -2583,7 +2583,7 @@
           "title": "IDMD",
           "position": 2,
           "url": "https://music.yandex.ru/album/33625674/track/131976904",
-          "favorite": false,
+          "favorite": true,
           "contentWarning": "explicit",
           "feats": []
         },
@@ -2607,7 +2607,7 @@
           "title": "HUYOMAYO",
           "position": 5,
           "url": "https://music.yandex.ru/album/33625674/track/131976907",
-          "favorite": true,
+          "favorite": false,
           "contentWarning": "explicit",
           "feats": []
         },
@@ -2631,7 +2631,7 @@
           "title": "I CAN",
           "position": 8,
           "url": "https://music.yandex.ru/album/33625674/track/131976910",
-          "favorite": false,
+          "favorite": true,
           "contentWarning": "explicit",
           "feats": []
         },
@@ -2671,7 +2671,7 @@
           "title": "БЕЗ ТЕБЯ",
           "position": 13,
           "url": "https://music.yandex.ru/album/33625674/track/131976915",
-          "favorite": true,
+          "favorite": false,
           "contentWarning": "explicit",
           "feats": []
         },
